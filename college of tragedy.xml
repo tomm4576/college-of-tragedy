@@ -2,7 +2,7 @@
 	<info>
 		<name>Tal'Dorei Campaign Setting Reborn</name>
 		<update version="0.0.2">
-			<file name="college of tragedy.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/unearthed-arcana/2020/20200204.xml" />
+			<file name="college of tragedy.xml" url="https://github.com/tomm4576/college-of-tragedy/blob/main/college%20of%20tragedy.xml" />
 		</update>
 	</info>
 	
