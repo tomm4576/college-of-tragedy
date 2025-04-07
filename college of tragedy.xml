@@ -20,7 +20,7 @@
 		</setters>
 	</element>
 	
-	<element name="College of Tragedy" type="Archetype" source="Tal'Dorei Campaign Setting Reborn" id="ID_WOTC_UA20200206_ARCHETYPE_BARD_COLLEGE_OF_CREATION">
+	<element name="College of Tragedy" type="Archetype" source="Tal'Dorei Campaign Setting Reborn" id="ID_WOTC_UA20200206_ARCHETYPE_BARD_COLLEGE_OF_TRAGEDY">
 		<supports>Bard College</supports>
 		<description>
 			<p>Not all grand stories conclude in triumphant victory. Many tales end with death and despair, and bards of the College of Tragedy know that sorrow and pathos are emotions just as potent as joy and delight. These bards specialize in the power of tragic storytelling, weaving words and spells together to dramatic and devastating effect.</p>
